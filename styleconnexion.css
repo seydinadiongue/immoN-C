@@ -1,0 +1,18 @@
+body{
+	background-image:url("back.jpg") ;
+	
+	
+}
+section{background-color:aqua;
+height:400px;width:38%;margin:auto;
+border-radius:20px;}
+label{display:inline-block;
+font-size:150%;margin-left:20px;width:19%;
+}
+p{margin-top:60px;}
+#logi{margin-top:80px;}
+#conn{margin-left:210px;width:30%;}
+input{width:65%;border-radius:20px;height:30px;
+background-color:lightviolet;border:2px navy solid ;}
+#conn:hover
+{background-color:lime;}

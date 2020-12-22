@@ -1,0 +1,63 @@
+
+body{background:#FF8C00;}
+header{height:250px;
+background:url("almamy.png"),url("almamy.png"),url("almamy.png");
+border:2px solid white;}
+input,textarea{margin-top:10px;}
+
+label{font-size:20px;
+font-weight:bold;}
+input{border:2px solid black;
+border-radius:20px;
+width:270px;
+height:30px;
+padding-left:10px;
+font-weight:bold;
+}
+textarea{width:270px;
+border:2px solid black;
+border-radius:20px;
+height:60px;
+}
+#bien,#modifie{width:150px;
+background:aqua;
+margin-left:70px;}
+form{border:3px  solid black;
+border-radius:20px;
+margin-top:10px;
+margin-left:10px;
+padding:10px;
+width:300px;
+}
+#bien:hover{background:white;}
+#modifie:hover{background:white;}
+#div4{display:inline-block;}
+h1{text-align:center;
+color:white;
+margin-top:10px;}
+#d1{border:2px solid white;
+height:30px;
+background:white;
+margin-top:10px;
+text-align:center;
+}
+a{border:1px solid white;
+border-radius:15px;
+background:#FF8C00;
+display:inline-block;
+width:150px;
+height:27px;
+text-align:center;
+font-weight:bold;
+margin-left:50px;
+font-size:20px;
+text-decoration:none;
+color:black;
+}
+a:hover{background:aqua;}
+td,th{border:2px solid black;
+text-align:center;
+height:30px;
+width:150px;}
+#f1,#f2,#f3{margin-left:500px;
+margin-top:10px;}

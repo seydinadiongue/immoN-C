@@ -1,0 +1,19 @@
+
+
+#imh{width:200px;
+margin-left:500px;}
+h1{text-align:center;
+color:white;
+margin-top:10px;}th{color:white;}
+td,th{border:2px solid black;
+text-align:center;font-size:160%;
+height:30px;
+width:150px;}
+th{background:blue;}
+table{border-collapse:collapse;border:2px solid black;
+margin-left:50px;margin-right:50px;
+margin-top:20px;width:100%;margin:auto;
+margin-top:50px;;margin-bottom:50px;}
+
+input{margin-top:10px;
+margin-bottom:0px;}

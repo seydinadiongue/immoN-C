@@ -1,0 +1,30 @@
+body{
+	background-image:url("back.jpg") ;
+}
+#nb{margin-left:140px;
+color:red;
+font-weight:bold;}
+
+section{background-color:aqua;
+height:630px;width:45%;margin:auto;
+border-radius:20px;}
+label{display:inline-block;
+font-size:150%;margin-left:20px;width:19%;
+}
+#conn{margin-left:290px;width:30%;}
+input{width:65%;border-radius:20px;height:30px;
+background-color:lightviolet;border:2px navy solid ;}
+#conn:hover
+{background-color:lime;}
+
+p{margin-top:25px;}
+#logi{margin-top:40px;}
+#conn{margin-left:250px;
+font-weight:bold;
+font-size:20px;
+width:30%;
+background:white;}
+input{width:65%;border-radius:10px;
+background-color:lightviolet;border:2px navy solid ;}
+#pr{margin-top:20px;}
+h1{margin-left:120px;}

@@ -1,0 +1,27 @@
+body{background:#FF8C00;}
+header{height:250px;
+background:url("almamy.png"),url("almamy.png"),url("almamy.png");
+border:2px solid white;}
+h1{text-align:center;
+color:white;
+margin-top:10px;}
+#d1{border:2px solid white;
+height:30px;
+background:white;
+margin-top:10px;
+text-align:center;
+}
+a{border:1px solid white;
+border-radius:15px;
+background:#FF8C00;
+display:inline-block;
+width:150px;
+height:27px;
+text-align:center;
+font-weight:bold;
+margin-left:50px;
+font-size:20px;
+text-decoration:none;
+color:black;
+}
+a:hover{background:aqua;}
